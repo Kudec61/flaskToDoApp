@@ -1,0 +1,6 @@
+ORM : sqlite3 ile uygulama arasında köprü oluşturarak sqlite kodlarını daha düzgün ve basit olarak yazmamızı sağlar
+---
+SQLAlchemy : ORM ile köprüsü oluşturmamızı sağlar.
+Oku :
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/
+---

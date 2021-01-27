@@ -1,0 +1,25 @@
+SQLITE3
+https://sqlite.org/download.html
+
+Adımlar,
+1- setup klasör yolunu kopyala
+2- bilgisayarım  > özellikler > ortam değişkenleri
+3- path uzantısı çift tıkla ve en sonda ";" işareti koyup ardına klasör yolunu ekle
+4- test et : cmd aç > sqlite3 yaz komut satırı geliyorsa path eklenmiştir
+
+---
+DB BROWSER FOR SQLITE3
+https://sqlitebrowser.org/dl/
+arayüz kullanımları için
+
+---
+SQLALCHEMY
+pip install flask_sqlalchemy
+
+---
+SQLITE TABLE
+C:\Users\kudec\Desktop\python\Flask - Uygulamalı Dökümanlar\todo_app>sqlite3 todo.db
+SQLite version 3.33.0 2020-08-14 13:23:32
+Enter ".help" for usage hints.
+sqlite> .tables
+sqlite> .exit
